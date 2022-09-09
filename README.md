@@ -1,2 +1,2 @@
 # File-Logging
-Putting data at the end of a file
+A simple linux script to put data at the end of a file
